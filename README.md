@@ -49,12 +49,9 @@
 
 ---
 
-<!-- <details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+  <img align="left" alt="Priyank's Github Stats" src="https://github-readme-stats.priyank2912.vercel.app/api?username=Priyank2912&show_icons=true&hide_border=true&theme=synthwave" />
 
-</details>
 
 [twitter]: https://twitter.com/em_Priyannk
 [youtube]: https://youtube.com/channel/UCgO4-0ED4waq4lIp86B44CQ/featured?view_as=subscriber
