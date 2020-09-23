@@ -5,14 +5,10 @@
 ## I'm a Android Developer, Developer, Student, Gamer and a Photographer in myself!!!
 
 - 🔭 Currently pursuing B.Tech from Pandit DeenDayal Petroleum University!!
-- 💻 I’m currently learning everything 🤣
+- 💻 I’m currently learning everything!!
 - 👨‍💻 I’m looking to collaborate with other developers like me!!!
 - 🥅 Goals: Contribute more to Open Source projects and many Android Projects
 - 📸 Fun fact: I am Gamer and a PhotoGrapher!!!
-
-### Now Playing 🎧
-[<img src="https://simpleicons.org/icons/spotify.svg" alt="Priyank Spotify Playing!!!" width="26px" />][spotify]
-[<img src="https://simpleicons.org/icons/prime.svg" alt="Priyank Prime Music Playing!!!" width="26px" />][prime]
 
 
 ### Connect with me:
