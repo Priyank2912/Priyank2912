@@ -7,7 +7,7 @@
 - 🔭 Currently pursuing B.Tech from Pandit DeenDayal Petroleum University!!
 - 💻 I’m currently learning everything!!
 - 👨‍💻 I’m looking to collaborate with other developers like me!!!
-- 🥅 Goals: Contribute more to Open Source projects and many Android Projects
+- 🥅 Goals: Contribute more to Open Source projects and many Web and Android Projects!!
 - 📸 Fun fact: I am Gamer and a PhotoGrapher!!!
 
 
