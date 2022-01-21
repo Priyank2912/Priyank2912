@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently focusing on **Competetive Programming**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -62,5 +62,5 @@
 
 <a href = "https://www.linkedin.com/in/rana-priyank/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/em_Priyannk"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/wm_priyank/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/em_priyank/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
